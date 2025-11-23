@@ -5,7 +5,7 @@ keywords:
 author: 程序员老庹
 language: zh-CN
 timezone: 'Asia/Shanghai'
-url: http://laotuo.tech # 请替换成你未来的域名
+url: http://laotuo.top # 请替换成你未来的域名
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
